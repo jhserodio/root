@@ -10,16 +10,21 @@ const Wrapper = styled.div`
     font-family: 'Noto sans';
     padding: 16px;
     font-size: 40px;
-    text-transform: uppercase;
   }
 `
 
-const Domus = props => (
+const Noto = props => (
   <Wrapper>
     <h1>
-      Domus
+      Root
+    </h1>
+    <h1>
+      ROOT
+    </h1>
+    <h1>
+      root
     </h1>
   </Wrapper>
 )
 
-export default Domus
+export default Noto
