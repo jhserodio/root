@@ -5,7 +5,9 @@
   "devDependencies": {
     "react-scripts": "0.9.5"
   },
-  "dependencies": {},
+  "dependencies": {
+    "styled-components": "^1.4.4"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
