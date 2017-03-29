@@ -17,12 +17,18 @@ const Wrapper = styled.div`
   }
 `
 
-const Eorix = props => (
+const Quicksand = props => (
   <Wrapper>
     <h1>
-      EOrix
+      Root
+    </h1>
+    <h1>
+      ROOT
+    </h1>
+    <h1>
+      root
     </h1>
   </Wrapper>
 )
 
-export default Eorix
+export default Quicksand
