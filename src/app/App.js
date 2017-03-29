@@ -2,10 +2,10 @@ import React, { Component } from 'react'
 
 import Header from './header/Header'
 import Grid from './grid/Grid'
-import Domus from './domus/Domus'
-import Vites from './vites/Vites'
-import Santorini from './santorini/Santorini'
-import Eorix from './eorix/Eorix'
+import Noto from './noto/Noto'
+import Valera from './valera/Valera'
+import Roboto from './roboto/Roboto'
+import Quicksand from './quicksand/Quicksand'
 
 class App extends Component {
   render() {
@@ -14,10 +14,10 @@ class App extends Component {
         <Header />
         <main>
           <Grid>
-            <Domus />
-            <Vites />
-            <Santorini />
-            <Eorix />
+            <Noto />
+            <Valera />
+            <Roboto />
+            <Quicksand />
           </Grid>
         </main>
       </div>
