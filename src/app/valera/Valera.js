@@ -17,12 +17,18 @@ const Wrapper = styled.div`
   }
 `
 
-const Vites = props => (
+const Valera = props => (
   <Wrapper>
     <h1>
-      Vites
+      Root
+    </h1>
+    <h1>
+      ROOT
+    </h1>
+    <h1>
+      root
     </h1>
   </Wrapper>
 )
 
-export default Vites
+export default Valera
