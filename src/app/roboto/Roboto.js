@@ -18,12 +18,18 @@ const Wrapper = styled.div`
   }
 `
 
-const Santorini = props => (
+const Roboto = props => (
   <Wrapper>
     <h1>
-      Santorini
+      Root
+    </h1>
+    <h1>
+      ROOT
+    </h1>
+    <h1>
+      root
     </h1>
   </Wrapper>
 )
 
-export default Santorini
+export default Roboto
