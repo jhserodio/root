@@ -10,14 +10,14 @@ const Wrapper = styled.div`
 
   h1 {
     margin: 0;
-    font-family: 'Varela round';
+    font-family: 'Quicksand';
     padding: 16px;
-    font-weight: normal;
-    font-size: 40px;
+    font-weight: 400;
+    font-size: 32px;
   }
 `
 
-const Valera = props => (
+const Quicksand = props => (
   <Wrapper>
     <h1>
       Root
@@ -31,4 +31,4 @@ const Valera = props => (
   </Wrapper>
 )
 
-export default Valera
+export default Quicksand

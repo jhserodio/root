@@ -1,11 +1,11 @@
 import React, { Component } from 'react'
 
-import Header from './header/Header'
-import Grid from './grid/Grid'
-import Noto from './noto/Noto'
-import Valera from './valera/Valera'
-import Roboto from './roboto/Roboto'
-import Quicksand from './quicksand/Quicksand'
+import Header from './components/Header'
+import Grid from './components/Grid'
+import Noto from './components/Noto'
+import Valera from './components/Valera'
+import Roboto from './components/Roboto'
+import Quicksand from './components/Quicksand'
 
 class App extends Component {
   render() {

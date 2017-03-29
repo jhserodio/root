@@ -8,15 +8,16 @@ const Wrapper = styled.div`
   h1 {
     margin: 0;
     padding: 16px;
-    font-size: 14px;
-    text-transform: uppercase;
+    font-size: 24px;
+    letter-spacing: 0.1em;
+    text-transform: lowercase;
   }
 `
 
 const Header = props => (
   <Wrapper>
     <h1>
-      brands
+      root
     </h1>
   </Wrapper>
 )

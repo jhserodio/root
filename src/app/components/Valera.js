@@ -1,7 +1,8 @@
 import React from 'react'
 import styled from 'styled-components'
 
-// #CAF6FF
+// background: #FF3A04;
+// color: #4FD9D6;
 
 const Wrapper = styled.div`
   background: #efefef;
@@ -9,16 +10,14 @@ const Wrapper = styled.div`
 
   h1 {
     margin: 0;
-    font-family: 'Roboto';
+    font-family: 'Varela round';
     padding: 16px;
-    letter-spacing: .05em;
     font-weight: normal;
-    font-size: 40px;
-    letter-space:
+    font-size: 32px;
   }
 `
 
-const Roboto = props => (
+const Valera = props => (
   <Wrapper>
     <h1>
       Root
@@ -32,4 +31,4 @@ const Roboto = props => (
   </Wrapper>
 )
 
-export default Roboto
+export default Valera

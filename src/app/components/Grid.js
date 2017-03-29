@@ -13,8 +13,9 @@ const Wrapper = styled.div`
   div {
     margin: 10px;
     width: 300px;
-    height: 150px;
+    height: 280px;
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
   }
