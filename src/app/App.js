@@ -5,7 +5,12 @@ import Grid from './components/Grid'
 import Noto from './components/Noto'
 import Valera from './components/Valera'
 import Roboto from './components/Roboto'
+import RobotoMono from './components/RobotoMono'
 import Quicksand from './components/Quicksand'
+import Itim from './components/Itim'
+import Oswald from './components/Oswald'
+import Raleway from './components/Raleway'
+import Source from './components/Source'
 
 class App extends Component {
   render() {
@@ -16,8 +21,13 @@ class App extends Component {
           <Grid>
             <Noto />
             <Valera />
+            <RobotoMono />
             <Roboto />
             <Quicksand />
+            <Itim />
+            <Oswald />
+            <Raleway />
+            <Source />
           </Grid>
         </main>
       </div>
