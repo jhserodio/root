@@ -38,19 +38,19 @@ class App extends Component {
         <Header />
         <main>
           <Grid>
-            <Noto />
-            <Valera />
-            <RobotoMono />
-            <Roboto />
-            <Quicksand />
-            <Itim />
-            <Oswald />
-            <Raleway />
-            <Source />
-            <MontSerrat />
-            <Lato />
-            <Josefin />
-            <Dosis />
+            <Noto brands={brands}/>
+            <Valera brands={brands}/>
+            <RobotoMono brands={brands}/>
+            <Roboto brands={brands}/>
+            <Quicksand brands={brands}/>
+            <Itim brands={brands}/>
+            <Oswald brands={brands}/>
+            <Raleway brands={brands}/>
+            <Source brands={brands}/>
+            <MontSerrat brands={brands}/>
+            <Lato brands={brands}/>
+            <Josefin brands={brands}/>
+            <Dosis brands={brands}/>
             <Abel brands={brands}/>
           </Grid>
         </main>

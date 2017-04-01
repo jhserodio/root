@@ -19,9 +19,9 @@ const Wrapper = styled.div`
 
 const Valera = props => (
   <Wrapper>
-    <h1>
-      root
-    </h1>
+    {props.brands.map(brand => (
+      <h1>{brand}</h1>
+    ))}
   </Wrapper>
 )
 
