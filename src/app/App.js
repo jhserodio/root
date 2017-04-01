@@ -11,9 +11,9 @@ import Itim from './components/Itim'
 import Oswald from './components/Oswald'
 import Raleway from './components/Raleway'
 import Source from './components/Source'
-import MountSerrat from './components/MountSerrat'
+import MontSerrat from './components/MontSerrat'
 import Lato from './components/Lato'
-import Josefim from './components/Josefim'
+import Josefin from './components/Josefin'
 import Dosis from './components/Dosis'
 import Abel from './components/Abel'
 
@@ -35,9 +35,9 @@ class App extends Component {
             <Oswald />
             <Raleway />
             <Source />
-            <MountSerrat />
+            <MontSerrat />
             <Lato />
-            <Josefim />
+            <Josefin />
             <Dosis />
             <Abel />
           </Grid>
