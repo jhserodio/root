@@ -20,7 +20,19 @@ import Abel from './components/Abel'
 
 
 class App extends Component {
+
+  constructor() {
+    super();
+
+    this.state = {
+      brands: ['root', 'Litch', 'stone']
+    }
+  }
+
   render() {
+
+    const brands = this.state.brands;
+
     return (
       <div className="App">
         <Header />
@@ -39,7 +51,7 @@ class App extends Component {
             <Lato />
             <Josefin />
             <Dosis />
-            <Abel />
+            <Abel brands={brands}/>
           </Grid>
         </main>
       </div>
