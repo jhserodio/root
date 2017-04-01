@@ -4,8 +4,8 @@ import styled from 'styled-components'
 // #CAF6FF
 
 const Wrapper = styled.div`
-  background: #efefef;
-  color: #121212;
+  background: #EEFFEE;
+  color: #152A38;
 
   h1 {
     margin: 0;

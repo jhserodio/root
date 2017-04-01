@@ -23,6 +23,11 @@ class App extends Component {
     super();
 
     this.state = {
+      colors: {
+        smooth: '#DEFDF0',
+        brand: '#152A38',
+        other: '#E71D36'
+      },
       brands: ['root', 'Litch', 'Eston']
     }
   }

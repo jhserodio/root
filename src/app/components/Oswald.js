@@ -2,9 +2,9 @@ import React from 'react'
 import styled from 'styled-components'
 
 const Wrapper = styled.div`
-  background: #efefef;
-  color: #121212;
-
+  background: #EEFFEE;
+  color: #152A38;
+  
   h1 {
     margin: 0;
     font-family: 'Oswald';

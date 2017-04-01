@@ -2,8 +2,9 @@ import React from 'react'
 import styled from 'styled-components'
 
 const Wrapper = styled.div`
-  background: #EFFFE9;
-  color: #011627;
+  background: #EEFFEE;
+  color: #152A38;
+
 
   h1 {
     margin: 0;
