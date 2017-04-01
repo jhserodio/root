@@ -17,8 +17,6 @@ import Josefin from './components/Josefin'
 import Dosis from './components/Dosis'
 import Abel from './components/Abel'
 
-
-
 class App extends Component {
 
   constructor() {
