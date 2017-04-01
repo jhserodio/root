@@ -28,7 +28,7 @@ class App extends Component {
         brand: '#152A38',
         other: '#E71D36'
       },
-      brands: ['root', 'Litch', 'Eston']
+      brands: ['root', 'Lich', 'Eston']
     }
   }
 

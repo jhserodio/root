@@ -16,7 +16,7 @@ const Wrapper = styled.div`
 const Header = props => (
   <Wrapper>
     <h1>
-      root - Litch - Eston
+      root - Lich - Eston
     </h1>
   </Wrapper>
 )
