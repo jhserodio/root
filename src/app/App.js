@@ -11,6 +11,7 @@ import Itim from './components/Itim'
 import Oswald from './components/Oswald'
 import Raleway from './components/Raleway'
 import Source from './components/Source'
+import MountSerrat from './components/MountSerrat'
 
 class App extends Component {
   render() {
@@ -28,6 +29,7 @@ class App extends Component {
             <Oswald />
             <Raleway />
             <Source />
+            <MountSerrat />
           </Grid>
         </main>
       </div>
