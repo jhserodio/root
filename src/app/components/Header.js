@@ -10,14 +10,13 @@ const Wrapper = styled.div`
     padding: 16px;
     font-size: 24px;
     letter-spacing: 0.1em;
-    text-transform: lowercase;
   }
 `
 
 const Header = props => (
   <Wrapper>
     <h1>
-      root
+      root - Litch - Eston
     </h1>
   </Wrapper>
 )

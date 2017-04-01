@@ -25,7 +25,7 @@ class App extends Component {
     super();
 
     this.state = {
-      brands: ['root', 'Litch', 'Stone']
+      brands: ['root', 'Litch', 'Eston']
     }
   }
 
