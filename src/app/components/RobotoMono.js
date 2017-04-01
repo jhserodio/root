@@ -21,12 +21,6 @@ const Wrapper = styled.div`
 const RobotoMono = props => (
   <Wrapper>
     <h1>
-      Root
-    </h1>
-    <h1>
-      ROOT
-    </h1>
-    <h1>
       root
     </h1>
   </Wrapper>

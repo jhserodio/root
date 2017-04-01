@@ -16,12 +16,6 @@ const Wrapper = styled.div`
 const Noto = props => (
   <Wrapper>
     <h1>
-      Root
-    </h1>
-    <h1>
-      ROOT
-    </h1>
-    <h1>
       root
     </h1>
   </Wrapper>

@@ -12,6 +12,12 @@ import Oswald from './components/Oswald'
 import Raleway from './components/Raleway'
 import Source from './components/Source'
 import MountSerrat from './components/MountSerrat'
+import Lato from './components/Lato'
+import Josefim from './components/Josefim'
+import Dosis from './components/Dosis'
+import Abel from './components/Abel'
+
+
 
 class App extends Component {
   render() {
@@ -30,6 +36,10 @@ class App extends Component {
             <Raleway />
             <Source />
             <MountSerrat />
+            <Lato />
+            <Josefim />
+            <Dosis />
+            <Abel />
           </Grid>
         </main>
       </div>
