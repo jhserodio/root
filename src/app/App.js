@@ -28,7 +28,23 @@ class App extends Component {
         brand: '#152A38',
         other: '#E71D36'
       },
-      brands: ['root', 'Lich', 'Eston']
+      brands: ['root', 'Lich', 'ESTON'],
+      fonts: [
+        'Roboto',
+        'Roboto Mono',
+        'Quicksand',
+        'Itim',
+        'Oswald',
+        'Raleway',
+        'Source sans pro',
+        'MontSerrat',
+        'Lato',
+        'Josefin',
+        'Dosis',
+        'Abel',
+        'Valera',
+        'Noto sans'
+      ]
     }
   }
 
