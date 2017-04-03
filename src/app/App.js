@@ -4,6 +4,7 @@ import { mock } from './mock'
 
 import Header from './components/Header'
 import Grid from './components/Grid'
+import Logos from './components/Logos';
 
 class App extends Component {
 
@@ -16,13 +17,18 @@ class App extends Component {
   render() {
 
     const brands = this.state.brands;
+    const fonts = this.state.fonts;
 
     return (
       <div className="App">
         <Header />
         <main>
           <Grid>
-            
+            {fonts.map((font, i) => (
+              <Logos brands={brands}
+                     font={font}
+                     key={i} />
+            ))}
           </Grid>
         </main>
       </div>
