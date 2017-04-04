@@ -24,6 +24,7 @@ class App extends Component {
       <div className="App">
         <Header />
         <main>
+          <Lato />
           <Grid>
             {fonts.map((font, i) => (
               <Logos brands={brands}
