@@ -15,9 +15,10 @@ const Wrapper = styled.div`
 
 const Lato = props => (
   <Wrapper>
-    {props.brands.map(brand => (
-      <h1>{brand}</h1>
-    ))}
+    <h1>
+      <span>E</span>
+      STON
+    </h1>
   </Wrapper>
 )
 

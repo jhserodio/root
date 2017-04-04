@@ -5,6 +5,7 @@ import { mock } from './mock'
 import Header from './components/Header'
 import Grid from './components/Grid'
 import Logos from './components/Logos';
+import Lato from './components/Lato';
 
 class App extends Component {
 
