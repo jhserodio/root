@@ -4,7 +4,7 @@ import styled from 'styled-components'
 const Wrapper = styled.div`
   background: #EEFFEE;
   color: #152A38;
-  width: 600px;
+  max-width: 600px;
   margin: 20px auto;
   display: flex;
   justify-content: center;
@@ -15,7 +15,7 @@ const Wrapper = styled.div`
     letter-spacing: 0.04em;
     font-family: 'Lato';
     padding: 16px;
-    font-size: 120px;
+    font-size: 5.2em;
 
     span {
       color: #EEFFEE;
